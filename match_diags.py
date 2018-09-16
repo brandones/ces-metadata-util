@@ -8,17 +8,23 @@ those in the PIH concepts server (icd-pih.csv) and, secondarily, CIEL
 """
 import csv
 import json
+import os
+from typing import Dict, List, Tuple
 
-SSA_CSV = "./input/diagnoses/ssa-diagnoses.csv"
-PIH_CSV = "./input/diagnoses/pih-diagnoses.csv"
-PIH_MATCHES_CSV = "./output/diagnoses-matches-pih.csv"
-CIEL_CSV = "./input/diagnoses/ciel-diagnoses.csv"
-CIEL_MATCHES_CSV = "./output/diagnoses-matches-ciel.csv"
-OCL_JSON = "./input/diagnoses/who-diagnoses.json"
-UNMATCHED_CSV = "./output/diagnoses-unmatched.csv"
+SSA_CSV = os.path.join(".", "input", "diagnoses", "ssa-diagnoses.csv")
+PIH_CSV = os.path.join(".", "input", "diagnoses", "pih-diagnoses.csv")
+PIH_MATCHES_CSV = os.path.join(".", "output", "diagnoses-matches-pih.csv")
+CIEL_CSV = os.path.join(".", "input", "diagnoses", "ciel-diagnoses.csv")
+CIEL_MATCHES_CSV = os.path.join(".", "output", "diagnoses-matches-ciel.csv")
+OCL_JSON = os.path.join(".", "input", "diagnoses", "who-diagnoses.json")
+UNMATCHED_CSV = os.path.join(".", "output", "diagnoses-unmatched.csv")
 
 
 def main():
+    # Make sure the directories we're going to use exist
+    os.makedirs(os.path.join(".", "output"), exist_ok=True)
+
+    # Match the SSA diagnoses with existing PIH diagnoses
     ssa_data = clean_csv_list(csv_as_list(SSA_CSV))
 
     pih_data = clean_csv_list(csv_as_list(PIH_CSV))
@@ -27,6 +33,8 @@ def main():
     print(str(len(unmatched_ssa_data)) + " unmatched")
     write_to_csv(pih_id_to_ssa_name, PIH_MATCHES_CSV)
 
+    # Match the remaining SSA diagnoses with diagnoses from the CIEL
+    # diagnoses that PIH has
     ciel_data = clean_csv_list(csv_as_list(CIEL_CSV))
     ciel_id_to_ssa_name, unmatched_ssa_data = match_on_icd_code(
         unmatched_ssa_data, ciel_data
@@ -35,6 +43,8 @@ def main():
     print(str(len(unmatched_ssa_data)) + " unmatched")
     write_to_csv(ciel_id_to_ssa_name, CIEL_MATCHES_CSV)
 
+    # Match the remaining SSA diagnoses with diagnoses from the WHO,
+    # as represented on the OCL website
     ocl_data = from_json_file(OCL_JSON)
     formatted_ocl_data = [
         (l["from_concept_code"], l["to_concept_code"]) for l in ocl_data
@@ -51,12 +61,17 @@ def main():
     write_to_csv(unmatched_ssa_data, UNMATCHED_CSV)
 
 
-def match_on_icd_code(ssa_data, concept_data):
+def match_on_icd_code(
+    ssa_data: List[List], concept_data: List
+) -> Tuple[List[Tuple], List]:
     """
+    Given the SSA diagnosis data and the concept_id to icd_code mappings
+    from PIH or CIEL, this finds appropriate matches based on the icd_code.
+
     Args:
         ssa_data (list): data from the CSV file
         concept_data (list): (concept_id, icd_code) from PIH or CIEL
-        
+
     Returns:
         matches (list[tuple]): (concept_id, ssa_name) tuples
         unmatched_ssa (list): entries from ssa_data which were not matched
@@ -81,27 +96,36 @@ def match_on_icd_code(ssa_data, concept_data):
     return concept_id_and_ssa_name, unmatched
 
 
-def print_dict_items(data, limit):
+def print_dict_items(data: Dict, limit: int):
+    """ Prints `limit` items from `data` """
     print([[k, v] for k, v in data.items()][:limit])
 
 
-def csv_as_list(filename):
+def csv_as_list(filename: str):
+    """ Returns a list representation of the CSV data at `filename` """
     with open(filename, "rt", encoding="utf8") as csvfile:
         reader = csv.reader(csvfile)
         return list(reader)
 
 
-def clean_csv_list(input_list):
+def clean_csv_list(input_list: List):
     """Drops blank lines & the header line"""
     return [l for l in input_list if l != []][1:]
 
 
-def from_json_file(filename):
+def from_json_file(filename: str):
+    """ Returns a dict representation of the JSON data at `filename` """
     with open(filename) as f:
         return json.load(f)
 
 
-def fix_ssa_icd_code(code):
+def fix_ssa_icd_code(code: str):
+    """
+    Fixes SSA's wierd ICD code representation.
+
+    They're supposed to look like 'K73.0', but SSA represents them like
+    'K730'. Prints the code with a warning if it is longer than 4 characters.
+    """
     if len(code) == 3:
         return code
     else:
@@ -110,7 +134,8 @@ def fix_ssa_icd_code(code):
         return code[:3] + "." + code[3:]
 
 
-def write_to_csv(data, filename):
+def write_to_csv(data: List, filename: str):
+    """ Writes `data` to a new CSV file at `filename`. """
     with open(filename, "w") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerows(data)
