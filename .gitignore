@@ -1,6 +1,8 @@
 __pycache__
 *.pyc
 env/
-intermediates/
-input/diagnoses/ocl/
-output/
+meds/intermediates/
+meds/output/
+diagnoses/input/ocl/
+diagnoses/intermediates/
+diagnoses/output/

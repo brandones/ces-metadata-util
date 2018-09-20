@@ -2,7 +2,11 @@
 
 Tools for generating Compañeros en Salud metadata for OpenMRS.
 
-Run `./setup.sh` first.
+If there's a `setup.sh` script in the directory, run that first.
+
+Put raw data in `input`. The scripts use `intermediates` internally.
+The scripts output to `output`. Put manually worked-on files in
+`results`.
 
 ## Obtaining Diagnosis Data
 
