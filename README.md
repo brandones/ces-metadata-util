@@ -8,6 +8,20 @@ Put raw data in `input`. The scripts use `intermediates` internally.
 The scripts output to `output`. Put manually worked-on files in
 `results`.
 
+## Medications TODO
+
+- Sort `results/meds-unmatched-ssa-manual.csv` into
+   `results/meds-unmatched-ssa-needs.csv` and
+   `results/meds-matches-choice-ssa-manual.csv`.
+- Ask about `results/meds-unmatched-ces-questions.csv` and the remainder
+    of `results/meds-unmatched-ssa-manual.csv`.
+- Request concepts for
+   `results/meds-unmatched-ces-needs.csv` and
+   `results/meds-unmatched-ssa-needs.csv`.
+- Create list of CIEL-not-PIH concepts from `results/meds-matches-choice-*`.
+- Request concept imports for those, as well as `meds-matches-ciel-*`.
+- Assemble final medications table.
+
 ## Obtaining Diagnosis Data
 
 Diagnosis ICD-10 codes can be extracted with
