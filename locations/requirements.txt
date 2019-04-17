@@ -1,0 +1,3 @@
+dbfpy
+pandas
+pylint
