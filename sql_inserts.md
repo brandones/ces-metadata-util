@@ -1,3 +1,4 @@
+# Diabetes
 ```
 INSERT INTO concept_name (concept_id, name, locale, locale_preferred, creator, date_created, uuid) VALUES 
     (887,"Glucosa","es",1,16404,now(), uuid()),
@@ -17,6 +18,7 @@ INSERT INTO concept_name (concept_id, name, locale, locale_preferred, creator, d
     (1067,"Desconocido","es",1,16404,now(), uuid());
 ```
 
+# Vitals
 ```
 INSERT INTO concept_name (concept_id, name, locale, locale_preferred, concept_name_type, creator, date_created, uuid) VALUES 
     (5090, "Talla (cm)", "es", 0, "FULLY_SPECIFIED", 16404, now(),  uuid()), 
