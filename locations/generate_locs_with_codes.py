@@ -2,6 +2,8 @@
 #
 # The resulting AH file is generating the error:
 #
+# Data too long for column 'user_generated_id' at row 1
+#
 
 import pandas
 
@@ -22,12 +24,29 @@ all_mun = all_mun_duped.drop_duplicates()
 all_mun_except_us = all_mun[~all_mun["NOM_MUN"].isin(our_muns)]
 
 loc_output = [
-    row["NOM_ENT"] + "|" + row["NOM_MUN"] + "|" + row["NOM_LOC"]
+    row["NOM_ENT"]
+    + "^"
+    + str(row["CVE_ENT"])
+    + "|"
+    + row["NOM_MUN"]
+    + "^"
+    + str(row["CVE_MUN"])
+    + "|"
+    + row["NOM_LOC"]
+    + "^"
+    + str(row["CVE_LOC"])
     for index, row in our_locs.iterrows()
 ]
 
 mun_output = [
-    row["NOM_ENT"] + "|" + row["NOM_MUN"] for index, row in all_mun_except_us.iterrows()
+    row["NOM_ENT"]
+    + "^"
+    + str(row["CVE_ENT"])
+    + "|"
+    + row["NOM_MUN"]
+    + "^"
+    + str(row["CVE_MUN"])
+    for index, row in all_mun_except_us.iterrows()
 ]
 
 with open("results/mexico_address_hierarchy_entries.csv", "w") as outfile:
