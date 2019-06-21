@@ -1,0 +1,70 @@
+,Unnamed: 0,name_es,name_clean,old_name_matches_clean,old_name_matches_score,concept,english
+2,,CIPROFLOXACINO/DEXAMETASONA SOLUCION OFTALMICA,ciprofloxacino dexametasona solucion oftalmica,dexametasona,90.0,CIEL:104425,ciprofloxacin and Dexamethasone
+3,,"DEXAMETASONA 0,5MG - 20 TABLETAS",dexametasona,dexametasona,100.0,CIEL:104425,
+4,,DEXAMETASONA INYECTABLE 4MG/ML - 2ML,dexametasona inyectable,dexametasona,90.0,CIEL:104425,
+5,,DEXAMETASONA/TOBRAMICINA OFTALMICA 3MG/ML,dexametasona tobramicina oftalmica,dexametasona,90.0,CIEL:104425,
+6,,TOBRAMICINA/DEXAMETASONA UGUENTO OFTALMICO,tobramicina dexametasona uguento oftalmico,dexametasona,90.0,CIEL:104425,
+14,,TRIMETROPRIMA/SULFAMETOXAZOL 160MG/800MG - 14 TABLETAS,trimetroprima sulfametoxazol,trimetroprima   sulfametoxazol,97.0,CIEL:105281,
+15,,TRIMETROPRIMA/SULFAMETOXAZOL 80MG/400MG - 20 TABLETAS,trimetroprima sulfametoxazol,trimetroprima   sulfametoxazol,97.0,CIEL:105281,
+16,,TRIMETROPRIMA/SULFAMETOXAZOL SUSPENCION 80 mg/400 mg/100 ml,trimetroprima sulfametoxazol suspencion,trimetroprima   sulfametoxazol,95.0,CIEL:105281,
+23,,FORMULA ENFAMIL SIN LACTOSA PARA 6-12 MESES **ESPECIAL**,formula enfamil sin lactosa para,,,CIEL:5254,"baby formula, lactose-free, 6-12 months"
+24,,FORMULA LACTEA PARA NINO MAYOR DE 6 MESES **ESPECIAL**,formula lactea para nino mayor de,,,CIEL:5254,"baby formula, > 6 months"
+25,,FORMULA LACTEA PARA NINO MENOR DE 6 MESES **ESPECIAL**,formula lactea para nino menor de,,,CIEL:5254,"baby formula, < 6 months"
+26,,FORMULA LACTEA PARA PREMATURO **ESPECIAL**,formula lactea para prematuro,,,CIEL:5254,baby formula for premature
+28,,ACICLOVIR 400MG - 35 TABLETAS,aciclovir,aciclovir,100.0,CIEL:70245,
+30,,ALOPURINOL 300MG - 30 TABLETAS,alopurinol,alopurinol,100.0,CIEL:70878,
+33,,AMIODARONA 200MG - 20 TABLETAS **ESPECIAL**,amiodarona,amiodarona,100.0,CIEL:71118,
+34,,AMLODIPINO 5MG - 10 TABLETAS,amlodipino,amlodipino,100.0,CIEL:71138,
+56,,CEFALEXINA 500MG - 12 TABLETAS,cefalexina,cefalexina,100.0,CIEL:73087,
+61,,CLOPIDOGREL - Tableta - 75 mg,clopidogrel,clopidogrel,100.0,CIEL:73602,
+66,,CICLOSPORINA EMULSION **ESPECIAL**,ciclosporina emulsion,,,CIEL:74125,cyclosporine
+68,,DICLOFENACO 100MG - 20 TABLETAS,diclofenaco,diclofenaco,100.0,CIEL:74782,
+69,,DICLOFENACO GEL 1.16% - 60G,diclofenaco gel,diclofenaco,95.0,CIEL:74782,
+70,,DICLOFENACO SOLUCION INYECTABLE 75MG - 1 AMPOLLA,diclofenaco solucion inyectable,diclofenaco,90.0,CIEL:74782,
+71,,DIFENHIDRAMINA - Jarabe - 250 mg / 100 ml,difenhidramina,difenhidramina,100.0,CIEL:75015,
+72,,DIFENHIDRAMINA - Solución Inyectable - 50 mg/ ml,difenhidramina,difenhidramina,100.0,CIEL:75015,
+73,,DIFENHIDRAMINA 25MG - 30 CAPSULAS,difenhidramina,difenhidramina,100.0,CIEL:75015,
+74,,ENALAPRIL 10MG 30 TABLETAS,enalapril,enalapril,100.0,CIEL:75634,
+78,,FENTANIL INYECTABLE - 1 AMPOLLA **ESPECIAL**,fentanil inyectable,,,CIEL:76272,fentanyl
+79,,FUMARATO FERROSO 200MG - 50 TABLETAS,fumarato ferroso,fumerato ferroso,94.0,CIEL:76335,
+81,,FLUOXETINA 20MG - 28 TABLETAS,fluoxetina,fluoxetina,100.0,CIEL:76553,
+85,,GABAPENTINA 300 MG - 15 CAPSULAS,gabapentina,gabapentina,100.0,CIEL:76750,
+86,,GABAPENTINA 400 MG - 15 CAPSULAS,gabapentina,gabapentina,100.0,CIEL:76750,
+89,,HIDRALAZINA INYECTABLE 20MG/ML - 5 AMPOLLAS,hidralazina inyectable,,,CIEL:77676,Hydralazine
+97,,IPRATROPIO AEROSOL 20MCG - 200 DOSIS,ipratropio aerosol,ipratropio,90.0,CIEL:78200,
+98,,SALBUTAMOL/BROMURO DE IPRATROPIO SOLUCION PARA NEBULIZAR,salbutamol bromuro de ipratropio solucion para nebulizar,ipratropio,90.0,CIEL:78200,
+99,,Complejo B (Sin HIERRO),complejo b (sin hierro),,,CIEL:78230,plan B (without iron)
+104,,LACTULOSA 10G/15ML - 125ML,lactulosa,lactulosa,100.0,CIEL:78632,
+110,,LEVOTIROXINA TABLETAS 100MCG - 100 TABLETAS **ESPECIAL**,levotiroxina tabletas,levotiroxina sódica,76.0,CIEL:78809,
+111,,LEVOTIROXINA TABLETAS 125MCG - 100 TABLETAS **ESPECIAL**,levotiroxina tabletas,levotiroxina sódica,76.0,CIEL:78809,
+112,,LOPERAMIDA - Tableta - 2 mg,loperamida,loperamida,100.0,CIEL:79038,
+117,,SULFATO DE MAGNESIO INYECTABLE 10% - 1 AMPOLLA **ESPECIAL**,sulfato de magnesio inyectable,,,CIEL:79247,magnesium sulfate
+120,,MESALAZINA 500MG TABLETAS **ESPECIAL**,mesalazina,,,CIEL:79616,mesalazine
+121,,MESALAZINA SUPOSITORIOS 250MG **ESPECIAL**,mesalazina supositorios,,,CIEL:79616,mesalazine
+122,,MESALAZINA SUPOSITORIOS 500MG **ESPECIAL**,mesalazina supositorios,,,CIEL:79616,mesalazine
+123,,METFORMINA 850MG - 30 TABLETAS,metformina,metformina,100.0,CIEL:79652,
+125,,METOTREXATO 2.5MG - 50 TABLETAS **ESPECIAL**,metotrexato,metotrexato,100.0,CIEL:79700,
+128,,METOCLOPRAMIDA - Tableta - 10 mg,metoclopramida,metoclopramida,100.0,CIEL:79757,
+129,,METOCLOPRAMIDA INYECTABLE 10MG/2ML - 2ML,metoclopramida inyectable,metoclopramida,90.0,CIEL:79757,
+130,,METOCLOPRAMIDA SUSPENCION 400MG - 20 ML,metoclopramida suspencion,metoclopramida,90.0,CIEL:79757,
+131,,METOPROLOL 100 MG - 50 TABLETAS,metoprolol,metoprolol,100.0,CIEL:79767,
+132,,MISOPROSTOL 200 MCG - 28 TABLETAS,misoprostol,misoprostol,100.0,CIEL:79984,
+134,,MONTELUKAST 10MG - 20 TABLETAS,montelukast,montelukast,100.0,CIEL:80092,
+135,,MONTELUKAST 4MG - TABLETAS MASTICABLES,montelukast,montelukast,100.0,CIEL:80092,
+136,,MORFINA 30MG - 100 PASTILLAS **ESPECIAL**,morfina,,,CIEL:80107,morphine
+148,,NITROGLICERINA 5MG TABLETAS SUBLINGUAS **ESPECIAL**,nitroglicerina,,,CIEL:80704,nitroglycerin
+149,,"CLORURO DE SODIO INYECTABLE 1,7G/10ML",cloruro de sodio inyectable,,,CIEL:80804,sodium chloride
+153,,OXITOCINA INYECTABLE - 1 AMPOLLA,oxitocina inyectable,oxitocina,90.0,CIEL:81369,
+156,,PERMETRINA SHAMPOO 1 % (SHAMPOO PARA PIOJOS),permetrina shampoo,permetrina,90.0,CIEL:81834,
+160,,FENITOINA 100MG 50 TABLETAS,fenitoina,fenitoína sódica,80.0,CIEL:82024,
+161,,FENITOINA SUSPENCION 0.750G/100ML 150 ML,fenitoina suspencion,,,CIEL:82024,
+163,,PRAVASTATINA - Tableta - 10 mg,pravastatina,pravastatina,100.0,CIEL:82411,
+164,,PREDNISONA 50MG 20 TABLETAS,prednisona,prednisona,100.0,CIEL:82453,
+165,,PREDNISONA 5MG 20 TABLETAS,prednisona,prednisona,100.0,CIEL:82453,
+167,,PROMETAZINA **ESPECIAL**,prometazina,,,CIEL:82670,promethazine
+169,,PROPRANOLOL 40MG - 30 TABLETAS,propranolol,propanolol,95.0,CIEL:82734,
+175,,RISPERIDONA 1MG 20 TABLETAS,risperidona,risperidona,100.0,CIEL:83405,
+176,,RISPERIDONA 2MG 40 TABLETAS,risperidona,risperidona,100.0,CIEL:83405,
+180,,SIMVASTATINA 10MG - TABLETAS,simvastatina,,,CIEL:83936,simvastatin
+190,,TRAMADOL - Capsulas - 100 mg,tramadol,tramadol,100.0,CIEL:85276,
+191,,TRAMADOL INYECTABLE 50MG/ML 5 AMPOLLAS DE 2ML,tramadol inyectable,tramadol,90.0,CIEL:85276,

@@ -335,7 +335,9 @@ def clean_csv_list(input_list):
 
 def clean_ces_drug_name(drug_name):
     drug_name = drug_name.lower()
-    result = re.split(r",|-|\d", drug_name)[0].strip()
+    result = re.split(r",|-|\d", drug_name)[0]
+    result = result.replace("**especial**", "")
+    result = re.sub(r"[/+]", " ", result).strip()
     if result == "":
         result = drug_name.split()[0]
         print(

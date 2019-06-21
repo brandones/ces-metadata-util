@@ -1,229 +1,296 @@
--,ACENOCUMAROL,-,CIEL:70105,acenocoumarol,96
--,ACICLOVIR - Crema - 50 mg / 1 g,-,CIEL:70245,aciclovir,100
--,ACICLOVIR - Suspensión - 4G/100mL 120mL,-,CIEL:70245,aciclovir,100
--,ACICLOVIR - Tableta - 200 mg,-,CIEL:70245,aciclovir,100
--,ACICLOVIR - Tableta - 400 mg,-,CIEL:70245,aciclovir,100
--,ÁCIDO ACETILSALICÍLICO - Tableta - 100 mg,-,PIH:88,acetylsalicylic acid,81
--,ÁCIDO ACETILSALICÍLICO - Tableta Eferves - 300 mg,-,PIH:88,acetylsalicylic acid,81
--,ÁCIDO FÓLICO - Tableta - 5 mg,-,CIEL:76613,folic acid,80
--,ALBENDAZOL - Suspensión - 400 mg / 20 ml,-,PIH:941,albendazole,95
--,ALBENDAZOL - Tableta - 200 mg,-,PIH:941,albendazole,95
--,ALCANFOR MENTOL EUCALIPTO - Crema - 35G,-,CIEL:104089,camphor / eucalyptus oil / menthol,
--,ALCOHOL POLIVINIL - Solucion Oftalmica - 10ML ,-,CIEL:82315,polyvinyl alcohol,88
--,ALENDRONATO - Tableta - 70 mg♠,-,CIEL:70496,alendronate,91
--,ALOPURINOL - Tableta - 300mg,-,CIEL:70878,allopurinol,95
--,Alquitrán de Hulla,-,CIEL:73636,alquitrán de hulla,
--,ALUMINIO MAGNESIO -  DIMETICONA - Suspensión - 3.7 g / 4 g / 0.5 g / 100 ml,-,CIEL:70995,-,
--,ALUMINIO MAGNESIO – DIMETICONA - Tableta Masticable - 200 mg / 200 mg / 20 mg,-,CIEL:70995,aluminum magnesium silicate,
--,AMIODARONA - Tabletas - 200MG♠,-,CIEL:71118,amiodarone,90
--,AMLODIPINO - Tableta - 5 mg,-,CIEL:71138,amlodipine besylate,81
--,AMOXICILINA - Suspensión - 250 mg / 5 ml,-,PIH:265,amoxicillin,91
--,AMOXICILINA - Suspensión - 500 mg / 5 ml,-,PIH:265,amoxicillin,91
--,AMOXICILINA - Tableta - 500 mg,-,PIH:265,amoxicillin,91
--,AMOXICILINA / ÁCIDO CLAVULÁNICO - Suspensión - 250 mg / 28.5 mg / 5 ml,-,PIH:450,-,
--,AMOXICILINA / ÁCIDO CLAVULÁNICO - Suspensión - 400 mg / 57 mg / 5 ml,-,PIH:450,-,
--,AMOXICILINA / ÁCIDO CLAVULÁNICO - Tableta - 500 mg / 125 mg,-,PIH:450,-,
--,AMOXICILINA / ÁCIDO CLAVULÁNICO - Tableta - 875 mg / 125 mg,-,PIH:450,-,
--,AMPICILINA - Solución Inyectable - 500 mg,-,PIH:269,ampicillin,90
--,ATENOLOL - Tableta - 100 mg,-,PIH:3186,atenolol,100
--,ATENOLOL - Tableta - 50 mg,-,PIH:3186,atenolol,100
--,ATENOLOL / CLORTALIDONA - Tableta - 50 mg / 12.5 mg♠,-,CIEL:103730,-,
--,ATROPINA - Solución Oftálmica -Sol,-,CIEL:71681,atropine,88
--,AZATIOPRINA - Tabletas - 50 MG ♠,-,CIEL:71767,azathioprine,87
--,AZITROMICINA - Suspensión - 200 mg / 5 ml,-,PIH:735,azithromycin,83
--,AZITROMICINA - Tableta - 500 mg,-,PIH:735,azithromycin,83
--,BENZATINA BENCILPENICILINA  - Solución Inyectable - 1 200 000 IU,-,PIH:4034,benzylpenicillin,
--,BENZOATO DE BENCILO - Emulsión - 30 %,-,PIH:409,benzylbenzoate,
--,BENZONATATO - Perlas - 100 mg,-,CIEL:72053,benzonatate,91
--,BETAMETASONA - Solución Inyectable - 8 mg / 2 ml,-,CIEL:72120,betamethasone,88
--,BETAMETASONA VALERATO CREMA 0.1% - Grupo 5,-,CIEL:72124,betamethasone valerate,82
--,BIPERIDENO,-,CIEL:72217,biperiden,95
--,BROMOCRIPTINA - Tableta - 2.5mg,-,CIEL:72411,bromocriptine,92
-,BUTILHIOSCINA - Solución Inyectable - 20 mg / ml,,CIEL:431,,
-,BUTILHIOSCINA - Tableta - 10 mg,,CIEL:431,,
--,CABERGOLINA - Tableta - 0.5 mg♠,-,CIEL:72595,cabergoline,91
--,CALAMINA - Suspensión - 8.00G/100 ML,-,CIEL:72621,calamine,88
--,CARBAMAZEPINA - Suspensión - 2 g / 100 ml,-,PIH:920,carbamazepine,92
--,CARBAMAZEPINA - Tableta - 200 mg,-,PIH:920,carbamazepine,92
--,CARBIDOPA / LEVODOPA  25mg/100mg - Tableta ♠,-,PIH:4049,carbidopa-levodopa,95
--,CARBIDOPA / LEVODOPA  25mg/250mg - Tableta ♠,-,PIH:4049,carbidopa-levodopa,95
--,CARBOXIMETILCELULOSA SODICA - Solución Oftálmica -  0.5% Sol♠,-,CIEL:72887,carboxymethylcellulose sodium,79
--,CARVEDILOL - Tableta - 25 mg♠,-,PIH:3185,carvedilol,100
--,CEFALEXINA - Tableta - 250 mg,-,CIEL:73087,cefalexin,95
--,CEFALEXINA - Tableta - 500 mg,-,CIEL:73087,cefalexin,95
--,CEFTRIAXONA - Solución Inyectable - 1 g,-,PIH:496,ceftriaxone,91
--,CEFTRIAXONA - Solución Inyectable - 500 mg,-,PIH:496,ceftriaxone,91
--,CIPROFLOXACINA/HIDRO/LID -Solución Otica - 10ML,-,PIH:740,ciprofloxacin,90
--,CIPROFLOXACINO - Solución Oftálmica - 5ML,-,PIH:740,ciprofloxacin,96
--,CIPROFLOXACINO - Tableta - 500 mg,-,PIH:740,ciprofloxacin,96
--,Ciprofloxacino /dexamentasona gotas,-,CIEL:104317,-,
--,CIPROFLOXACINO UNGÜENTO,-,PIH:740,ciprofloxacin,90
--,CITRATO DE POTASIO,-,CIEL:82353,potassium citrate,80
--,CLARITROMICINA - Tableta - 500 mg,-,PIH:2459,clarithromycin,86
--,CLINDAMICINA - GEL - 1%,-,CIEL:73546,clindamycin,87
--,CLINDAMICINA - Tableta - 300 mg,-,CIEL:73546,clindamycin,87
--,CLIOQUINOL / HIDROCORTISONA - Crema - 3 % / 1 % / 20 g,-,CIEL:104337,clioquinol / hydrocortisone,92
--,Clonazepam,-,CIEL:73596,clonazepam,100
--,CLONAZEPAM - Tableta - 2 mg♠,-,CIEL:73596,clonazepam,100
--,CLOPIDOGREL - Tableta - 75 mg♠,-,CIEL:73602,clopidogrel,100
--,CLORAFENICOL - Unguento Oftálmica,-,PIH:266,chloramphenicol,81
--,CLORFENAMINA - Jarabe - 50 mg / 100 ml,-,CIEL:913,chlorphenamine,77
--,CLORFENAMINA - Tableta - 4 mg,-,CIEL:913,chlorphenamine,77
--,CLORTALIDONA - Tableta - 50 mg,-,CIEL:73338,chlorthalidone,85
--,COLCHICINA - Tableta - 1MG,-,CIEL:73702,colchicine,90
--,CROMOGLICATO - Solución Oftálmica - 20 mg/ ml,-,CIEL:74044,cromoglycate,83
--,DANAZOL - Capsulas - 100 MG♠,-,CIEL:74233,danazol,100
--,DECANOATO HALOPERIDOL 50mg/ml INYECTABLE,-,PIH:4047,haloperidol,90
--,DESOGESTREL / ETINILESTRADIOL - Tableta - 0.15 mg / 0.03 mg ,-,CIEL:104421,desogestrel / ethinyl estradiol,75
--,DEXAMETASONA - Solución Inyectable - 8 mg / 2 ml,-,CIEL:104425,dexamethasone,88
--,DEXAMETASONA - Tableta - 0.50 mg,-,CIEL:104425,dexamethasone,88
--,DEXTROMETORFANO - Jarabe - 120mL,-,CIEL:74666,dextromethorphan,84
--,DIAZEPAM - Solución Inyectable,-,PIH:247,diazepam,100
--,DIAZEPAM - Solución Inyectable - 10 mg,-,PIH:247,diazepam,100
--,DIAZEPAM - Tableta,-,PIH:247,diazepam,100
--,DICLOFENACO - Gel - 1.16 g / 100 g,-,CIEL:74782,diclofenac sodium,82
--,DICLOFENACO - Solución Inyectable - 75 mg / 3 ml,-,CIEL:74782,diclofenac sodium,82
--,DICLOFENACO - Tabletas - 100 mg,-,CIEL:74782,diclofenac sodium,82
--,DIFENHIDRAMINA - Jarabe - 250 mg / 100 ml,-,CIEL:75015,diphenhydramine,76
--,DIFENHIDRAMINA - Solución Inyectable - 50 mg/ ml,-,CIEL:75015,diphenhydramine,76
--,DIFENHIDRAMINA - Tableta - 25 mg,-,CIEL:75015,diphenhydramine,76
--,Digoxina 0.25mg,-,PIH:3488,digoxin,93
--,DIMENHIDRINATO - Tableta - 50 mg,-,CIEL:74935,dimenhydrinate,86
--,DINITRATO DE ISOSORBIDE - Tableta - 10 mg,-,PIH:3428,isosorbide dinitrate,84
--,DIPROPIONATO DE BECLOMETASONA - Aerosol - 250 mcg / 100 g,-,CIEL:71917,beclomethasone dipropionate,89
--,DORZOLAMIDA/TIMOLOL -  Solución Oftálmica - 20MG/5MG/ML 5ML,-,CIEL:104546,-,
--,DOXICICLINA - Tableta - 100 mg,-,PIH:95,-,
--,ENALAPRIL - Tableta - 10 mg,-,CIEL:75634,enalapril maleate,90
--,EPINEFRINA - Solución Inyectable - 1 mg / ml,-,CIEL:75744,epinephrine,76
--,ERITROMICINA - Suspensión - 250 mg / 5 ml,-,CIEL:75842,erythromycin,75
--,ERITROMICINA - Tableta - 500 mg,-,CIEL:75842,erythromycin,75
--,ESPIRONOLACTONA - Tableta - 25 mg,-,PIH:4061,spironolactone,90
--,ESTROGENOS - Crema - 62.5 mg/ 100 gm♠,-,CIEL:75928,estrogens,95
--,ESTROGENOS - Tableta - 0.625 mg,-,CIEL:75928,estrogens,95
--,FENITOÍNA SÓDICA - Suspensión - 750 mg / 100 ml,-,CIEL:82024,phenytoin sodium,
--,FENITOÍNA SÓDICA - Tableta - 100 mg,-,CIEL:82024,phenytoin sodium,
--,FENOBARBITAL - Tableta - 100 mg♠,-,PIH:238,phenobarbital,88
--,FINASTERIDA - Tableta - 5 mg♠,-,CIEL:76376,finasteride,91
--,FLUCONAZOL - Tableta - 150 mg,-,PIH:747,fluconazole,95
--,FLUOCINOLONA ACETONIDA CREMA 0.1% - Grupo 6,-,CIEL:76515,fluocinolone acetonide,84
--,FLUOXETINA - Tableta - 20 mg,-,CIEL:76553,fluoxetine hydrochloride,81
--,FLUTICASONA - Aerosol - 50MCG 120 Dosis,-,CIEL:76586,fluticasone,91
--,FLUTICASONA/SALMETEROL - Aerosol -250/50MCG 60 Dosis♠,-,CIEL:104676,fluticasone / salmeterol,95
--,FLUTICASONA/SALMETEROL - Aerosol -50/25MCG 120 Dosis♠,-,CIEL:104676,fluticasone / salmeterol,95
--,FUMERATO FERROSO - Tableta - 200 mg,-,CIEL:76335,ferrous fumarate,81
--,FUROSEMIDA - Tableta - 40 mg,-,PIH:99,furosemide,90
--,GABAPENTINA - Tableta -  400 mg ♠,-,CIEL:76750,gabapentin,95
--,GENTAMICINA - Solución Inyectable - 160 mg / 2 ml,-,PIH:100,gentamicin,95
--,GLIBENCLAMIDA - Tableta - 5 mg,-,PIH:4046,glibenclamide,92
--,GLIPIZIDA - Tableta - 10 mg,-,CIEL:77032,glipizide,89
--,HALOPERIDOL - Solución Inyectable - 50 mg/ ml♠,-,PIH:4047,haloperidol,100
--,HIDROCORTISONA / LIDOCAÍNA - Supositorios - 60 mg / 5 mg,-,CIEL:104859,hydrocortisone / lidocaine,85
--,HIDROXICLOROQUINA - Tabletas - 200MG♠,-,CIEL:77784,hydroxychloroquine,80
--,HIDROXIZINA - Tableta -  10MG,-,CIEL:77796,hydroxyzine,73
--,HIPROMELOSA 0.5% -  Solución Oftálmica - 15ML,-,CIEL:77850,hypromellose,78
--,IBUPROFENO - Tableta - 400 mg,-,PIH:912,ibuprofen,95
--,IBUPROFENO - Tableta - 800 mg,-,PIH:912,ibuprofen,95
--,INSULINA GLARGINA,-,CIEL:78064,"insulin, glargine, human",82
--,IPRATROPIO - Aerosol - 20 mcg♠,-,CIEL:78200,ipratropium bromide,81
--,ITRACONAZOL - Tableta - 100 mg,-,CIEL:78338,itraconazole,96
--,IVERMECTINA  - Tabletas - 6MG♠,-,CIEL:78342,ivermectin,95
--,KETOCONAZOL - Crema - 2% / 100 g,-,PIH:926,ketoconazole,96
--,KETOROLACO / TROMETAMINA - Solución Inyectable - 30 mg / ml,-,CIEL:78482,ketorolac tromethamine,91
--,KETOROLACO / TROMETAMINA - Sublingual - 30 mg,-,CIEL:78482,ketorolac tromethamine,91
--,LACTULOSA -  Suspensión 10GR/15ML,-,CIEL:78632,lactulose,89
--,LAMOTRIGINA - Tableta - 100 mg,-,CIEL:78644,lamotrigine,91
--,LATANOPROST - Solución Oftálmica - 0.05 mg / ml ,-,CIEL:78677,latanoprost,100
--,LEVETIRACETAM - Tabletas - 500MG♠,-,CIEL:78770,levetiracetam,100
--,LEVOFLOXACINO - Tableta - 500 mg,-,CIEL:78788,-,
--,Levonogestrel/etinilestradiol,-,CIEL:162296,levonorgestrel/ethinylestradiol,93
--,LEVONORGESTREL - Tableta - 1.5 mg,-,PIH:1718,levonorgestrel,100
--,LEVOTIROXINA SÓDICA - Tableta - 100 mcg,-,CIEL:78809,levothyroxine sodium,74
--,LOPERAMIDA - Tableta - 2 mg,-,CIEL:79038,loperamide hydrochloride,81
--,LORATADINA - Tableta - 10 mg,-,CIEL:79053,loratadine,90
--,LOSARTÁN - Tableta - 100 mg,-,CIEL:79074,losartan,93
--,LUBRICANTE VAGINAL - Gel - 113GR,-,CIEL:162138,lubricant jelly,
-,MEDIAS COMPRESIVAS - 1 pieza,,PIH:7876,,
--,MELATONINA - Tableta 3 MG,-,CIEL:79527,melatonin,95
--,METFORMINA - Tableta - 850 mg,-,CIEL:79652,metformin hydrochloride,81
--,METFORMINA/GLIBENCLAMIDA - Tableta - 1G/5MG,-,CIEL:159850,-,
--,METILDOPA 250 MG,-,PIH:251,methyldopa,84
--,METILPREDNISONA - Solución Inyectable - 500 mg♠,-,CIEL:79743,-,
--,METOCLOPRAMIDA - Solución Inyectable - 10 mg / 2 ml,-,CIEL:79757,metoclopramide hydrochloride,84
--,METOCLOPRAMIDA - Tableta - 10 mg,-,CIEL:79757,metoclopramide hydrochloride,84
--,METOCLOPRAMIDA GOTAS,-,CIEL:79755,metoclopramide,76
--,METOPROLOL - Tableta - 95 mg,-,CIEL:79767,-,
--,METOTREXATO - Tableta - 2.5 mg♠,-,CIEL:79700,methotrexate,87
--,METRONIDAZOL - Suspensión - 2.5 g,-,PIH:237,metronidazole,96
--,METRONIDAZOL - Suspensión - 5 g ,-,PIH:237,metronidazole,96
--,METRONIDAZOL - Tableta - 500 mg,-,PIH:237,metronidazole,96
--,METRONIDAZOL TOPICO,-,CIEL:79782,metronidazole,75
--,MISOPROSTOL - Tableta - 200mcg,-,CIEL:79984,misoprostol,100
--,MOMETASONA FUROATO UNGUENTO 0.1% - Grupo 3♠,-,CIEL:80050,mometasone furoate,76
--,MONTELUKAST - Tableta - 10 mg♠,-,CIEL:80092,montelukast sodium,90
--,NALTREXONA 50mg - Tableta ♠,-,CIEL:80375,naltrexone,90
--,NAPROXENO - Tableta - 250 mg,-,CIEL:80395,naproxen,94
--,NISTATINA - Óvulo - 100 000 IU,-,PIH:919,nystatin,82
--,NISTATINA - Suspensión 100000 U,-,PIH:919,nystatin,82
--,NITAZOXANIDA  - Tableta - 500mg,-,CIEL:80675,nitazoxanide,92
--,NITAZOXANIDA - Suspensión - 1200 mg/60ml,-,CIEL:80675,nitazoxanide,92
--,NITAZOXANIDA - Tableta - 200 mg,-,CIEL:80675,nitazoxanide,92
--,NITROFURANTOÍNA - Tableta - 100 mg,-,CIEL:80696,nitrofurantoin,93
--,OLANZAPINA - Tableta - 10 mg,-,CIEL:81025,olanzapine,90
--,OMEPRAZOL - Tableta - 20 mg,-,PIH:1244,omeprazole,95
--,Oxcarbazepina 600mg tabletas,-,CIEL:81294,oxcarbazepine,92
--,ÓXIDO DE ZINC - Pasta - 25 g / 100 g,-,PIH:4064,zinc oxide,-
--,OXIMETAZOLINA  - Solucion Nasal - 50MG/100ML ,-,CIEL:81345,oxymetazoline,85
--,OXITOCINA - Solución Inyectable - 5 mg,-,CIEL:81369,oxytocin,82
--,PARACETAMOL - Jarabe - 3.2 g / 100 ml,-,PIH:89,paracetamol,100
--,PARACETAMOL - Solución Pediátrica - 100 mg / 1 ml / 15 ml,-,PIH:89,paracetamol,100
--,PARACETAMOL - Supositorio - 300 mg,-,PIH:89,paracetamol,100
--,PARACETAMOL - Tableta - 500 mg,-,PIH:89,paracetamol,100
--,PAROXETINA,-,CIEL:81604,paroxetine,90
--,PENTOXIFILININA ,-,CIEL:81765,pentoxifylline,76
--,PERMETRINA - Shampoo - 1 %,-,CIEL:81834,permethrin,90
--,PLÁNTAGO PSYLLIUM - Polvo - 49.70 g / 400 g,-,CIEL:82862,psyllium,
--,PRAVASTATINA - Tableta - 10 mg♠,-,CIEL:82411,pravastatin,96
--,PREDNISONA - Tableta - 5 mg,-,CIEL:82453,prednisone,90
--,PREDNISONA - Tableta - 50 mg,-,CIEL:82453,prednisone,90
--,PROGESTERONA - Cápsulas - 100MG♠,-,CIEL:82624,progesterone,92
--,PROPANOLOL - Tableta - 40 mg,-,CIEL:82734,propranolol hydrochloride,81
--,RANITIDINA - Tableta - 150 mg,-,PIH:923,ranitidine,90
--,RISPERIDONA - Tableta - 1 mg,-,CIEL:83405,risperidone,91
--,RISPERIDONA - Tableta - 2 mg,-,CIEL:83405,risperidone,91
--,SALBUTAMOL - Aerosol - 200 mg / 100 mcg,-,PIH:798,salbutamol,100
--,SERTRALINA - Tableta - 50 mg,-,CIEL:83865,sertraline,90
--,SILDENAFIL - Tableta - 100 mg♠,-,CIEL:83902,sildenafil,100
--,SUBSALICILATO DE BISMUTO - Suspensión - 120ML,-,CIEL:72241,bismuth subsalicylate,80
--,SUBSALICILATO DE BISMUTO - Tableta -,-,CIEL:72241,bismuth subsalicylate,80
--,SULFADIAZINA DE PLATA - CREMA  - 1G ,-,PIH:938,silver sulphadiazine,
--,SUMATRIPTÁN - Tableta - 100 mg,-,CIEL:84522,sumatriptan,95
--,TAMOXIFENO - Tabletas - 20 MG ♠,-,PIH:7664,tamoxifen,95
--,TAMSULOSINA - Tableta - 0.4 mg♠,-,CIEL:84670,tamsulosin,95
--,Telmisartan - Hidroclorotiazda tableta 80mg/12.5mg,-,CIEL:104843,-,
--,Telmisartan tableta 40mg,-,CIEL:84764,telmisartan,73
--,TERAZOSINA - Tableta - 2 mg,-,CIEL:84823,terazosine,90
--,TETRACICLINA - Tableta - 500 mg,-,CIEL:84893,tetracycline,83
--,TIAMAZOL - Tabletas - 5MG,-,CIEL:79691,-,
--,Tiamazol 5mg,-,CIEL:79691,-,
--,TIOTROPIO (RESPUESTO) - 30 CAPSULAS,-,CIEL:85157,tiotropium,
--,Tobramicina /dexametasona gotas,-,CIEL:104426,dexamethasone / tobramycin,78
--,TOBRAMICINA 3MG/ML - Solución Oftálmica - 5ML,-,CIEL:85185,tobramycin,86
--,Tobramicina dexametasona ungüento,-,CIEL:104426,dexamethasone / tobramycin,75
--,TOBRAMICINA UNGÜENTO,-,CIEL:85185,tobramycin,
--,TOLTERIDONE,-,CIEL:85218,tolperisone,82
--,TOPIRAMATO - Tabletas - 100MG♠,-,CIEL:85235,topiramate,90
--,TOPIRAMATO - Tabletas - 25MG♠,-,CIEL:85235,topiramate,90
--,TRAMADOL - Capsulas - 100 mg,-,CIEL:85276,tramadol hydrochloride,90
--,TRAMADOL - Capsulas - 50MG,-,CIEL:85276,tramadol hydrochloride,90
--,TRAMADOL - Solución Inyectable - 100 mg / 2 ml,-,CIEL:85276,tramadol hydrochloride,90
--,TRIMETROPRIMA / SULFAMETOXAZOL - Suspensión - 800 mg / 400 mg / 100 ml,-,CIEL:105281,sulfamethoxazole / trimethoprim,91
--,TRIMETROPRIMA / SULFAMETOXAZOL - Tableta - 160 mg / 800 mg,-,CIEL:105281,sulfamethoxazole / trimethoprim,91
--,TRIMETROPRIMA / SULFAMETOXAZOL - Tableta - 80 mg / 400 mg,-,CIEL:105281,sulfamethoxazole / trimethoprim,91
--,VALPROATO DE MAGNESIO - Suspensión - 200 mg / ml,-,CIEL:79251,magnesium valproate,80
--,VALPROATO DE MAGNESIO - Tableta - 200 mg,-,CIEL:79251,magnesium valproate,80
--,VASELINA - Petrolato - TARRO 60 GR,-,CIEL:81861,-,
--,VENLAFAXINA - Tableta - 75MG,-,CIEL:86155,venlafaxine,91
--,Venlafaxina de liberacion prolongada capsula 75mg,-,CIEL:86155,venlafaxine,
--,Vitamin angels,-,PIH:461,-,
--,ZINC - Cápsula - 0.38 g,-,PIH:4064,zinc oxide,90
--,Zinc y fenilefrina solucion oftalmica,-,CIEL:105169,-,
+,name_es,name_clean,old_name_matches_clean,old_name_matches_score,concept,english
+,CIPROFLOXACINA CREMA **ESPECIAL**,ciprofloxacina crema,ciprofloxacino  dexamentasona gotas,72,CIEL:104317,
+,DESOGESTREL Y ETINILESTRADIOL 0.15MG/0.03MG - 21 TABLETAS,desogestrel y etinilestradiol,desogestrel   etinilestradiol,97,CIEL:104421,
+,CIPROFLOXACINO/DEXAMETASONA SOLUCION OFTALMICA,ciprofloxacino dexametasona solucion oftalmica,dexametasona,90,CIEL:104425,ciprofloxacin and Dexamethasone
+,"DEXAMETASONA 0,5MG - 20 TABLETAS",dexametasona,dexametasona,100,CIEL:104425,
+,DEXAMETASONA INYECTABLE 4MG/ML - 2ML,dexametasona inyectable,dexametasona,90,CIEL:104425,
+,DEXAMETASONA/TOBRAMICINA OFTALMICA 3MG/ML,dexametasona tobramicina oftalmica,dexametasona,90,CIEL:104425,
+,TOBRAMICINA/DEXAMETASONA UGUENTO OFTALMICO,tobramicina dexametasona uguento oftalmico,dexametasona,90,CIEL:104425,
+,DORZOLAMIDA/TIMOLOL OFTALMICA 20MG/5ML,dorzolamida timolol oftalmica,dorzolamida timolol,90,CIEL:104546,
+,TIMOLOL + BRIMONIDINA + DORZOLAMIDA GOTAS OFTALMICAS **ESPECIAL**,timolol   brimonidina   dorzolamida gotas oftalmicas,dorzolamida timolol,86,CIEL:104546,
+,FLUTICASONA/SALMETEROL 250MG/50MG,fluticasona salmeterol,fluticasona salmeterol,100,CIEL:104676,
+,TELMISARTAN 40MG - 14 TABLETAS,telmisartan,telmisartan,100,CIEL:104843,
+,TELMISARTAN/HIDROCLOROTIAZIDA 80MG/12.5MG - TABLETAS,telmisartan hidroclorotiazida,telmisartan,90,CIEL:104843,
+,HIDROCORTISONA INYECTABLE 50MG/ML - 2ML,hidrocortisona inyectable,hidrocortisona   lidocaína,72,CIEL:104859,
+,ALCAFTADINA OFTALMICA **ESPECIAL**,alcaftadina oftalmica,zinc y fenilefrina solucion oftalmica,86,CIEL:105169,
+,TRIMETROPRIMA/SULFAMETOXAZOL 160MG/800MG - 14 TABLETAS,trimetroprima sulfametoxazol,trimetroprima   sulfametoxazol,97,CIEL:105281,
+,TRIMETROPRIMA/SULFAMETOXAZOL 80MG/400MG - 20 TABLETAS,trimetroprima sulfametoxazol,trimetroprima   sulfametoxazol,97,CIEL:105281,
+,TRIMETROPRIMA/SULFAMETOXAZOL SUSPENCION 80 mg/400 mg/100 ml,trimetroprima sulfametoxazol suspencion,trimetroprima   sulfametoxazol,95,CIEL:105281,
+,METFORMINA/GLIBENCLAMIDA 500MG/5MG - 60 TABLETAS,metformina glibenclamida,metformina glibenclamida,100,CIEL:159850,
+,LACOSAMIDA 100MG TABLETAS **ESPECIAL**,lacosamida,,,CIEL:160268,lacosamide
+,FORMULA LACTEA ETAPA 3 **ESPECIAL**,formula lactea etapa,,,CIEL:163404,"baby formula, stage 3"
+,IMPLANTE ANTICONCEPTIVO - 1 UNIDAD,implante anticonceptivo,,,CIEL:1873,contraceptive implant
+,BUTILHIOCINA 20MG/ML - 3 AMPOLLAS DE 1ML,butilhiocina,butilhioscina,96,CIEL:431,
+,BUTILHIOSCINA 10MG - 10 TABLETAS,butilhioscina,butilhioscina,100,CIEL:431,
+,FORMULA ENFAMIL SIN LACTOSA PARA 6-12 MESES **ESPECIAL**,formula enfamil sin lactosa para,,,CIEL:5254,"baby formula, lactose-free, 6-12 months"
+,FORMULA LACTEA PARA NINO MAYOR DE 6 MESES **ESPECIAL**,formula lactea para nino mayor de,,,CIEL:5254,"baby formula, > 6 months"
+,FORMULA LACTEA PARA NINO MENOR DE 6 MESES **ESPECIAL**,formula lactea para nino menor de,,,CIEL:5254,"baby formula, < 6 months"
+,FORMULA LACTEA PARA PREMATURO **ESPECIAL**,formula lactea para prematuro,,,CIEL:5254,baby formula for premature
+,ACENOCUMAROL 4MG - 20 TABLETAS **ESPECIAL**,acenocumarol,acenocumarol,100,CIEL:70105,
+,ACICLOVIR 400MG - 35 TABLETAS,aciclovir,aciclovir,100,CIEL:70245,
+,ACIDO ALENDRONICO 70MG - 4 TABLETAS **ESPECIAL**,acido alendronico,alendronato,74,CIEL:70496,
+,ALOPURINOL 300MG - 30 TABLETAS,alopurinol,alopurinol,100,CIEL:70878,
+,"ALUMINIO, MAGNESIO Y DIMETICONA - 50 TABLETAS",aluminio,aluminio magnesio – dimeticona,90,CIEL:70995,
+,"ALUMINIO, MAGNESIO Y DIMETICONA - SUSPENCION 320 ML",aluminio,aluminio magnesio – dimeticona,90,CIEL:70995,
+,AMIODARONA 200MG - 20 TABLETAS **ESPECIAL**,amiodarona,amiodarona,100,CIEL:71118,
+,AMLODIPINO 5MG - 10 TABLETAS,amlodipino,amlodipino,100,CIEL:71138,
+,ATORVASTATINA 40 mg,atorvastatina,,,CIEL:71665,atorvastatin
+,ATROPINA INYECTABLE 1 MG/ML - 1 AMPOLLA **ESPECIAL**,atropina inyectable,atropina,90,CIEL:71681,
+,ATROPINA OFTALMICA **ESPECIAL**,atropina oftalmica,atropina,90,CIEL:71681,
+,AZATIOPRINA 50MG **ESPECIAL**,azatioprina,azatioprina,100,CIEL:71767,
+,BECLOMETASONA 250MCG/100G - AEROSOL,beclometasona,dipropionato de beclometasona,90,CIEL:71917,
+,BENZONATATO 100MG - 20 CAPSULAS,benzonatato,benzonatato,100,CIEL:72053,
+,BETAMETASONA 0.1% - CREMA,betametasona,betametasona,100,CIEL:72120,
+,BETAMETASONA INYECTABLE 4MG/ML - 2ML,betametasona inyectable,betametasona,90,CIEL:72120,
+,Bicalutamida 50 mg **ESPECIAL**,bicalutamida,,,CIEL:72164,bicalutamide
+,BIPERIDENO 1 MG 6 30 TABLETAS,biperideno,biperideno,100,CIEL:72217,
+,BIPERIDENO 2 MG - 30 TABLETAS,biperideno,biperideno,100,CIEL:72217,
+,BISMUTO (SUBSALICILATO) 262MG - 24 TABLETAS,bismuto (subsalicilato),subsalicilato de bismuto,95,CIEL:72241,
+,BISMUTO (SUBSALICILATO) SUSPENCION - 120ML,bismuto (subsalicilato) suspencion,subsalicilato de bismuto,88,CIEL:72241,
+,BISOPROLOL 2.5MG - TABLETAS **ESPECIAL**,bisoprolol,,,CIEL:72247,bisoprolol
+,BROMOCRIPTINA - Tableta - 2.5mg **ESPECIAL**,bromocriptina,bromocriptina,100,CIEL:72411,
+,"BUPROENORFINA INYECTABLE 0,3MG/ML",buproenorfina inyectable,,,CIEL:72510,buprenorphine
+,CABERGOLINA 0.5 MG - 2 TABLETAS **ESPECIAL**,cabergolina,cabergolina,100,CIEL:72595,
+,CARBETOCINA INYECTABLE 100 MCG - 1 AMPOLLA,carbetocina inyectable,,,CIEL:72794,carbetocin
+,METAMIZOL 500MG TABLETAS,metamizol,,,CIEL:73008,Metamizole
+,METAMIZOL INYECTABLE 1G - 3 AMPOLLAS,metamizol inyectable,,,CIEL:73008,Metamizole
+,CELECOXIB 200MG **ESPECIAL**,celecoxib,,,CIEL:73048,celecoxib
+,CEFALEXINA 500MG - 12 TABLETAS,cefalexina,cefalexina,100,CIEL:73087,
+,CLORTALIDONA 50MG - 20 TABLETAS,clortalidona,clortalidona,100,CIEL:73338,
+,CLINDAMICINA - GEL - 1%,clindamicina,clindamicina,100,CIEL:73546,
+,CLINDAMICINA 300MG - 16 CAPSULAS,clindamicina,clindamicina,100,CIEL:73546,
+,CLONAZEPAM 2MG - 30 TABLETAS,clonazepam,clonazepam,100,CIEL:73596,
+,CLOPIDOGREL - Tableta - 75 mg,clopidogrel,clopidogrel,100,CIEL:73602,
+,ACIDO DE FLUOCINOLONA CREMA 0.01G/100G - 30G,acido de fluocinolona crema,alquitrán de hulla,86,CIEL:73636,
+,SHAMPOO ALQUITRAN DE HULLA **ESPECIAL**,shampoo alquitran de hulla,alquitrán de hulla,86,CIEL:73636,
+,COLCHICINA 1MG - 30 TABLETAS,colchicina,colchicina,100,CIEL:73702,
+,CROMOGLICATO - Solución Oftálmica - 20 mg/ml,cromoglicato,cromoglicato,100,CIEL:74044,
+,CICLOSPORINA EMULSION **ESPECIAL**,ciclosporina emulsion,,,CIEL:74125,cyclosporine
+,DANAZOL 100MG - CAPSULAS **ESPECIAL**,danazol,danazol,100,CIEL:74233,
+,DICLOFENACO 100MG - 20 TABLETAS,diclofenaco,diclofenaco,100,CIEL:74782,
+,DICLOFENACO GEL 1.16% - 60G,diclofenaco gel,diclofenaco,95,CIEL:74782,
+,DICLOFENACO SOLUCION INYECTABLE 75MG - 1 AMPOLLA,diclofenaco solucion inyectable,diclofenaco,90,CIEL:74782,
+,DIFENHIDRAMINA - Jarabe - 250 mg / 100 ml,difenhidramina,difenhidramina,100,CIEL:75015,
+,DIFENHIDRAMINA - Solución Inyectable - 50 mg/ ml,difenhidramina,difenhidramina,100,CIEL:75015,
+,DIFENHIDRAMINA 25MG - 30 CAPSULAS,difenhidramina,difenhidramina,100,CIEL:75015,
+,ENALAPRIL 10MG 30 TABLETAS,enalapril,enalapril,100,CIEL:75634,
+,ERITROMICINA SUSPENCION 250MG/5ML 100ML,eritromicina suspencion,eritromicina,90,CIEL:75842,
+,ESTROGENOS CONJUGADOS 0.625MG - 21 TABLETAS **ESPECIAL**,estrogenos conjugados,estrogenos,90,CIEL:75928,
+,ESTROGENOS CONJUGADOS CREMA **ESPECIAL**,estrogenos conjugados crema,estrogenos,90,CIEL:75928,
+,FENTANIL INYECTABLE - 1 AMPOLLA **ESPECIAL**,fentanil inyectable,,,CIEL:76272,fentanyl
+,FUMARATO FERROSO 200MG - 50 TABLETAS,fumarato ferroso,fumerato ferroso,94,CIEL:76335,
+,FINASTERIDA 5MG 30 TABLETAS,finasterida,finasterida,100,CIEL:76376,
+,FLUOXETINA 20MG - 28 TABLETAS,fluoxetina,fluoxetina,100,CIEL:76553,
+,FLUTICASONA 50MCG - 120 DOSIS,fluticasona,fluticasona,100,CIEL:76586,
+,ACIDO FOLICO 0.4MCG - 90 TABLETAS,acido folico,ácido fólico,91,CIEL:76613,
+,ACIDO FOLICO 5MG - 20 TABLETAS,acido folico,ácido fólico,91,CIEL:76613,
+,GABAPENTINA 300 MG - 15 CAPSULAS,gabapentina,gabapentina,100,CIEL:76750,
+,GABAPENTINA 400 MG - 15 CAPSULAS,gabapentina,gabapentina,100,CIEL:76750,
+,GYNKO BILOBA TABLETAS **ESPECIAL**,gynko biloba tabletas,,,CIEL:77009,ginkgo biloba
+,GLIPIZIDA 10MG - 20 TABLETAS,glipizida,glipizida,100,CIEL:77032,
+,HIDRALAZINA INYECTABLE 20MG/ML - 5 AMPOLLAS,hidralazina inyectable,,,CIEL:77676,Hydralazine
+,HIDROCORTISONA/LIDOCAINA (SUPOSITORIOS O PASTA),hidrocortisona lidocaina (supositorios o pasta),,,CIEL:777,hydrocortisone and lidocaine
+,HIDROXICLOROQUINA 200MG TABLETAS **ESPECIAL**,hidroxicloroquina,hidroxicloroquina,100,CIEL:77784,
+,HIDROXIZINA 10MG TABLETAS,hidroxizina,hidroxizina,100,CIEL:77796,
+,INSULINA GLARGINA - 1 PLUMA,insulina glargina,insulina glargina,100,CIEL:78064,
+,INSULINA MIXTA - 1 PLUMA,insulina mixta,insulina glargina,71,CIEL:78064,
+,INSULINA RAPIDA (lispro o aspart) - 1 PLUMA,insulina rapida (lispro o aspart),insulina glargina,86,CIEL:78064,
+,INSULNA GLARGINA - 1 RECARGA,insulna glargina,insulina glargina,97,CIEL:78064,
+,IPRATROPIO AEROSOL 20MCG - 200 DOSIS,ipratropio aerosol,ipratropio,90,CIEL:78200,
+,SALBUTAMOL/BROMURO DE IPRATROPIO SOLUCION PARA NEBULIZAR,salbutamol bromuro de ipratropio solucion para nebulizar,ipratropio,90,CIEL:78200,
+,Complejo B (Sin HIERRO),complejo b (sin hierro),,,CIEL:78230,plan B (without iron)
+,ITRACONAZOL 100MG 15 CAPSULAS,itraconazol,itraconazol,100,CIEL:78338,
+,IVERMECTINA 6MG 2 TABLETAS,ivermectina,ivermectina,100,CIEL:78342,
+,KETOROLACO 30MG - 6 TABLETAS SUBLINGUAL,ketorolaco,ketorolaco   trometamina,90,CIEL:78482,
+,KETOROLACO INYECTABLE 30MG/ML - 3 AMPOLLAS,ketorolaco inyectable,,,CIEL:78482,
+,LACTULOSA 10G/15ML - 125ML,lactulosa,lactulosa,100,CIEL:78632,
+,LAMOTRIGINA 100MG - 28 TABLETAS,lamotrigina,lamotrigina,100,CIEL:78644,
+,"LATANOPROST SOLUCION 0.05MG/ML 2,5ML",latanoprost solucion,latanoprost,90,CIEL:78677,
+,LEVETIRACETAM SUSPENCION [Keppra] **ESPECIAL**,levetiracetam suspencion [keppra],levetiracetam,90,CIEL:78770,
+,LEVETIRACETAM TABLETAS 500MG **ESPECIAL**,levetiracetam tabletas,levetiracetam,90,CIEL:78770,
+,LEVOFLOXACINO 500MG - 7 TABLETAS,levofloxacino,levofloxacino,100,CIEL:78788,
+,LEVOTIROXINA TABLETAS 100MCG - 100 TABLETAS **ESPECIAL**,levotiroxina tabletas,levotiroxina sódica,76,CIEL:78809,
+,LEVOTIROXINA TABLETAS 125MCG - 100 TABLETAS **ESPECIAL**,levotiroxina tabletas,levotiroxina sódica,76,CIEL:78809,
+,LOPERAMIDA - Tableta - 2 mg,loperamida,loperamida,100,CIEL:79038,
+,LORATADINA 10MG - 10 TABLETAS,loratadina,loratadina,100,CIEL:79053,
+,Loratadina Sol. Pediátrica,loratadina sol. pediátrica,loratadina,90,CIEL:79053,
+,LORAZEPAM 1MG - 40 TABLETAS,lorazepam,,,CIEL:79054,lorazepam
+,LOSARTAN 100MG - 15 TABLETAS,losartan,losartán,93,CIEL:79074,
+,SULFATO DE MAGNESIO INYECTABLE 10% - 1 AMPOLLA **ESPECIAL**,sulfato de magnesio inyectable,,,CIEL:79247,magnesium sulfate
+,VALPROATO DE MAGNESIO 200MG - 40 TABLETAS,valproato de magnesio,valproato de magnesio,100,CIEL:79251,
+,VALPROATO DE MAGNESIO SUSPENSION 200MG/ML,valproato de magnesio suspension,valproato de magnesio,90,CIEL:79251,
+,MESALAZINA 500MG TABLETAS **ESPECIAL**,mesalazina,,,CIEL:79616,mesalazine
+,MESALAZINA SUPOSITORIOS 250MG **ESPECIAL**,mesalazina supositorios,,,CIEL:79616,mesalazine
+,MESALAZINA SUPOSITORIOS 500MG **ESPECIAL**,mesalazina supositorios,,,CIEL:79616,mesalazine
+,METFORMINA 850MG - 30 TABLETAS,metformina,metformina,100,CIEL:79652,
+,TIAMAZOL 5MG - 20 TABLETAS **ESPECIAL**,tiamazol,tiamazol,100,CIEL:79691,
+,METOTREXATO 2.5MG - 50 TABLETAS **ESPECIAL**,metotrexato,metotrexato,100,CIEL:79700,
+,METILFENIDATO 10MG 30 TABLETAS,metilfenidato,,,CIEL:79739,methylphenidate
+,METILPREDNISOLONA INYECTABLE 500MG **ESPECIAL**,metilprednisolona inyectable,metilprednisona,78,CIEL:79743,
+,METOCLOPRAMIDA - Tableta - 10 mg,metoclopramida,metoclopramida,100,CIEL:79757,
+,METOCLOPRAMIDA INYECTABLE 10MG/2ML - 2ML,metoclopramida inyectable,metoclopramida,90,CIEL:79757,
+,METOCLOPRAMIDA SUSPENCION 400MG - 20 ML,metoclopramida suspencion,metoclopramida,90,CIEL:79757,
+,METOPROLOL 100 MG - 50 TABLETAS,metoprolol,metoprolol,100,CIEL:79767,
+,MISOPROSTOL 200 MCG - 28 TABLETAS,misoprostol,misoprostol,100,CIEL:79984,
+,Mometasona intranasal,mometasona intranasal,,,CIEL:80049,mometasone
+,MONTELUKAST 10MG - 20 TABLETAS,montelukast,montelukast,100,CIEL:80092,
+,MONTELUKAST 4MG - TABLETAS MASTICABLES,montelukast,montelukast,100,CIEL:80092,
+,MORFINA 30MG - 100 PASTILLAS **ESPECIAL**,morfina,,,CIEL:80107,morphine
+,MUPIROCINA CREMA 2%,mupirocina crema,,,CIEL:80194,mupirocin
+,ACIDO MICOFENOLICO 500 MG - TABLETAS **ESPECIAL**,acido micofenolico,,,CIEL:80236,mycophenolic acid
+,NALTREXONE 50MG - 30 TABLETAS,naltrexone,naltrexona,90,CIEL:80375,
+,NEBIVOLOL 5MG TABLETAS **ESPECIAL**,nebivolol,,,CIEL:80470,nebivolol
+,NEOMICINA/LIDOCAÍNA OTICA - 20 ml,neomicina lidocaína otica,,,CIEL:80514,neomycin
+,NIMESULIDA JARABE **ESPECIAL**,nimesulida jarabe,,,CIEL:80665,Nimesulide
+,NIMESULIDA TABLETAS,nimesulida tabletas,,,CIEL:80665,Nimesulide
+,NITAZOXANIDA 500MG - 2 TABLETAS,nitazoxanida,nitazoxanida,100,CIEL:80675,
+,NITAZOXANIDA SUSPENCION 100MG/5ML - 30ML,nitazoxanida suspencion,nitazoxanida,90,CIEL:80675,
+,NITAZOXANIDA SUSPENCION 100MG/5ML - 60ML,nitazoxanida suspencion,nitazoxanida,90,CIEL:80675,
+,NITROFURANTOINA 100MG - 40 CAPSULAS,nitrofurantoina,nitrofurantoína,97,CIEL:80696,
+,NITROGLICERINA 5MG TABLETAS SUBLINGUAS **ESPECIAL**,nitroglicerina,,,CIEL:80704,nitroglycerin
+,"CLORURO DE SODIO INYECTABLE 1,7G/10ML",cloruro de sodio inyectable,,,CIEL:80804,sodium chloride
+,OLANZAPINA 10MG - 14 TABLETAS,olanzapina,olanzapina,100,CIEL:81025,
+,OLOPATADINA OFTALMICA **ESPECIAL**,olopatadina oftalmica,,,CIEL:81031,olopatadine
+,OXCARBAZEPINA 600MG - 20 TABLETAS **ESPECIAL**,oxcarbazepina,oxcarbazepina,100,CIEL:81294,
+,OXITOCINA INYECTABLE - 1 AMPOLLA,oxitocina inyectable,oxitocina,90,CIEL:81369,
+,PAROXETINA 20MG - 20 TABLETAS **ESPECIAL**,paroxetina,paroxetina,100,CIEL:81604,
+,PERINDOPRIL 4MG - 14 TABLETAS **ESPECIAL**,perindopril,,,CIEL:81822,perindopril
+,PERMETRINA SHAMPOO 1 % (SHAMPOO PARA PIOJOS),permetrina shampoo,permetrina,90,CIEL:81834,
+,VASELINA - 60G,vaselina,vaselina,100,CIEL:81861,
+,FENAZOPIRIDINA 100MG 20 TABLETAS,fenazopiridina,,,CIEL:81909,Phenazopyridine
+,"FITOMENADIONA INYECTABLE 2MG/0,2ML",fitomenadiona inyectable,,,CIEL:81943,phytomenadione
+,FENITOINA 100MG 50 TABLETAS,fenitoina,fenitoína sódica,80,CIEL:82024,
+,FENITOINA SUSPENCION 0.750G/100ML 150 ML,fenitoina suspencion,,,CIEL:82024,
+,ALCOHOL POLIVINILICO OFTALMICO - 10ML,alcohol polivinilico oftalmico,alcohol polivinil,90,CIEL:82315,
+,PRAVASTATINA - Tableta - 10 mg,pravastatina,pravastatina,100,CIEL:82411,
+,PREDNISONA 50MG 20 TABLETAS,prednisona,prednisona,100,CIEL:82453,
+,PREDNISONA 5MG 20 TABLETAS,prednisona,prednisona,100,CIEL:82453,
+,MEDROXYPROGESTERONA INYECTABLE 150MG - 1 AMPOLLA,medroxyprogesterona inyectable,progesterona,90,CIEL:82624,
+,PROMETAZINA **ESPECIAL**,prometazina,,,CIEL:82670,promethazine
+,PROPAFENONA TABLETAS **ESPECIAL**,propafenona tabletas,,,CIEL:82696,propafenone
+,PROPRANOLOL 40MG - 30 TABLETAS,propranolol,propanolol,95,CIEL:82734,
+,PLÁNTAGO PSYLLIUM - 400G,plántago psyllium,plántago psyllium,100,CIEL:82862,
+,SHAMPOO VIN.QUASSIA PARA PIOJOS,shampoo vin.quassia para piojos,,,CIEL:82983,quassia shampoo for fleas
+,QUETIAPINA 100MG - 100 TABLETAS,quetiapina,,,CIEL:82990,quetiapine
+,QUETIAPINA 300MG - 60 TABLETAS,quetiapina,,,CIEL:82990,quetiapine
+,RIFAXIMINA 200MG TABLETAS **ESPECIAL**,rifaximina,,,CIEL:83362,rifaximin
+,RISPERIDONA 1MG 20 TABLETAS,risperidona,risperidona,100,CIEL:83405,
+,RISPERIDONA 2MG 40 TABLETAS,risperidona,risperidona,100,CIEL:83405,
+,SENOSIDOS A-B 8.6MG - 60 TABLETAS,senosidos a,,,CIEL:83809,sennosides
+,SERTRALINA 50 MG - 14 TABLETAS,sertralina,sertralina,100,CIEL:83865,
+,SILDENAFIL TABLETAS **ESPECIAL**,sildenafil tabletas,sildenafil,90,CIEL:83902,
+,SIMVASTATINA 10MG - TABLETAS,simvastatina,,,CIEL:83936,simvastatin
+,SULFAZALACINA 500MG TABLETAS **ESPECIAL**,sulfazalacina,,,CIEL:84480,sulfasalazine
+,SUMATRIPTÁN 100 mg TABLETAS,sumatriptán,sumatriptán,100,CIEL:84522,
+,TACROLIMUS 1% CREMA **ESPECIAL**,tacrolimus,,,CIEL:84646,tacrolimus
+,TAMSULOSINA 0.4MG - 20 CAPSULAS,tamsulosina,tamsulosina,100,CIEL:84670,
+,TERAZOSINA 2MG 20 TABLETAS,terazosina,terazosina,100,CIEL:84823,
+,TETRACICLINA - Tableta - 500 mg,tetraciclina,tetraciclina,100,CIEL:84893,
+,TOLTERIDONE TABLETAS **ESPECIAL**,tolteridone tabletas,tolteridone,90,CIEL:85218,
+,TOPIRAMATO 100MG - 20 TABLETAS,topiramato,topiramato,100,CIEL:85235,
+,TOPIRAMATO 25MG - 20 TABLETAS,topiramato,topiramato,100,CIEL:85235,
+,TRAMADOL - Capsulas - 100 mg,tramadol,tramadol,100,CIEL:85276,
+,TRAMADOL INYECTABLE 50MG/ML 5 AMPOLLAS DE 2ML,tramadol inyectable,tramadol,90,CIEL:85276,
+,VENLAFAXINA 75MG - 20 TABLETAS,venlafaxina,venlafaxina de liberacion prolongada capsula,90,CIEL:86155,
+,CLORFENAMINA - Tableta - 4 mg,clorfenamina,clorfenamina,100,CIEL:913,
+,CLORFENAMINA JARABE 0.5MG/ML - 120ML,clorfenamina jarabe,clorfenamina,90,CIEL:913,
+,PARACETAMOL/FENILEFRINA/CLORFENAMINA 325 mg/5 mg/2 mg - TABLETAS,paracetamol fenilefrina clorfenamina,clorfenamina,90,CIEL:913,
+,AMITRIPTILINA,amitriptilina,,,CIEL:931,amitriptyline
+,GENTAMICINA INYECTABLE 80MG/ML - 2ML,gentamicina inyectable,gentamicina,90,PIH:100,
+,HIDROCLOROTIAZIDA 25MG - 20 TABLETAS,hidroclorotiazida,,,PIH:1243,hydrochlorothiazide
+,OMEPRAZOL 20MG - 7 TABLETAS,omeprazol,omeprazol,100,PIH:1244,
+,LEVONORGESTREL 1.5MG - 1 TABLETA,levonorgestrel,levonorgestrel,100,PIH:1718,
+,METRONIDAZOL 500MG - 30 TABLETAS,metronidazol,metronidazol,100,PIH:237,
+,METRONIDAZOL ADULTO SUSPENSION 5.0G - 120ML,metronidazol adulto suspension,metronidazol,90,PIH:237,
+,METRONIDAZOL CREMA,metronidazol crema,metronidazol,90,PIH:237,
+,METRONIDAZOL PEDIATRICO SUSPENSION 2.5G - 120ML,metronidazol pediatrico suspension,metronidazol,90,PIH:237,
+,FENOBARBITAL 100mg 40 TABLETAS **ESPECIAL**,fenobarbital,fenobarbital,100,PIH:238,
+,CLARITROMICINA 500MG - 10 TABLETAS,claritromicina,claritromicina,100,PIH:2459,
+,DIAZEPAM - Tableta,diazepam,diazepam,100,PIH:247,
+,DIAZEPAM INYECTABLE 10MG 1 AMPOLLA,diazepam inyectable,diazepam,90,PIH:247,
+,NIFEDIPINO 10 MG TABLETAS,nifedipino,,,PIH:250,nifedipine
+,NIFEDIPINO LP 30MG - 30 TABLETAS,nifedipino lp,,,PIH:250,nifedipine
+,METILDOPA 250 MG - 30 TABLETAS **ESPECIAL**,metildopa,metildopa,100,PIH:251,
+,AMOXICILINA 500 MG - 12 TABLETAS,amoxicilina,amoxicilina,100,PIH:265,
+,AMOXICILINA SUSPENSION 500MG/5ML - 75ML,amoxicilina suspension,amoxicilina,90,PIH:265,
+,CLORANFENICOL OFTALMICA 5MG/ML - 5ML,cloranfenicol oftalmica,,,PIH:266,chloramphenicol
+,AMPICILINA INYECTABLE 1G - 1 AMPOLLA,ampicilina inyectable,ampicilina,90,PIH:269,
+,AMPICILINA INYECTABLE 500MG - 1 AMPOLLA,ampicilina inyectable,ampicilina,90,PIH:269,
+,CARVEDILOL 25MG - 14 TABLETAS **ESPECIAL**,carvedilol,carvedilol,100,PIH:3185,
+,L-ORNITINA + L-ASPARTATO 3G - GRANULADOS [Hepa Merz] **ESPECIAL**,l,,,PIH:3186,l-ornithine and l-aspartate
+,ISOSORBIDA (DINITRATO) 10MG - 20 TABLETAS,isosorbida (dinitrato),dinitrato de isosorbide,84,PIH:3428,
+,ISOSORBIDA (DINITRATO) 5MG - 20 TABLETAS,isosorbida (dinitrato),dinitrato de isosorbide,84,PIH:3428,
+,DIGOXINA 0.25MG - 20 TABLETAS **ESPECIAL**,digoxina,digoxina,100,PIH:3488,
+,ELECTROLITOS ORALES - 1 SOBRE,electrolitos orales,,,PIH:351,oral electrolites
+,GEL DE GLUCOSA ORAL,gel de glucosa oral,,,PIH:351,oral glucose gel
+,BENCILPENICILINA BENZATILICA BENZATINICA COMPUESTA INYECTABLE - 1200000UI,bencilpenicilina benzatilica benzatinica compuesta inyectable,benzatina bencilpenicilina,86,PIH:4034,
+,BENCILPENICILINA PROCAINICA Y CRISTALINA INYECTABLE 400 000 UI - 2ML,bencilpenicilina procainica y cristalina inyectable,benzatina bencilpenicilina,86,PIH:4034,
+,GLUCONATO DE CALCIO INYECTABLE 10% - 1 AMPOLLA,gluconato de calcio inyectable,,,PIH:4035,calcium gluconate
+,GLIBENCLAMIDA 5MG - 50 TABLETAS,glibenclamida,glibenclamida,100,PIH:4046,
+,HALOPERIDOL 5MG - 20 TABLETAS **ESPECIAL**,haloperidol,haloperidol,100,PIH:4047,
+,HALOPERIDOL DECANOATE INYECTABLE 50MG/ML **ESPECIAL**,haloperidol decanoate inyectable,haloperidol,90,PIH:4047,
+,HALOPERIDOL INYECTABLE 5MG/ML,haloperidol inyectable,haloperidol,90,PIH:4047,
+,CARBIDOPA/LEVODOPA 50/250MG - 100 CAPSULAS **ESPECIAL**,carbidopa levodopa,carbidopa   levodopa,95,PIH:4049,
+,ESPIRONOLACTONA 25MG - 30 TABLETAS,espironolactona,espironolactona,100,PIH:4061,
+,CALCIO Y VITAMINA A Y D2 - 60 TABLETAS,calcio y vitamina a y d,,,PIH:4063,calcium and vitamin A and D2
+,DESPENSA PARA EMBARAZADA,despensa para embarazada,,,PIH:4063,"a mix of corn flour, beans, rice, soy, and oil given for pregnancy"
+,ÓXIDO DE ZINC PASTA 25G/100G - 30G,óxido de zinc pasta,zinc,90,PIH:4064,
+,ZINC 0.38 g CAPSULAS,zinc,zinc,100,PIH:4064,
+,BENZOATO DE BENCILO SOLUCION CORPORAL,benzoato de bencilo solucion corporal,benzoato de bencilo,90,PIH:409,
+,AMOXICILINA / ACIDO CLAVULÁNICO - 400MG/57MG/5ML,amoxicilina   acido clavulánico,amoxicilina   ácido clavulánico,98,PIH:450,
+,AMOXICILINA/ACIDO CLAVULANICO 875MG/125MG - 10 TABLETAS,amoxicilina acido clavulanico,amoxicilina   ácido clavulánico,93,PIH:450,
+,VITAMINAS ANGELS,vitaminas angels,vitamin angels,93,PIH:461,
+,CEFTRIAXONA - Solución Inyectable - 500 mg,ceftriaxona,ceftriaxona,100,PIH:496,
+,CEFTRIAXONA SOLUCION INYECTABLE 1G - 1 AMPOLLA,ceftriaxona solucion inyectable,ceftriaxona,90,PIH:496,
+,DIU DE COBRE,diu de cobre,,,PIH:5275,copper IUD
+,AZITROMICINA 200MG/5ML - SUSPENCION 30 ML,azitromicina,azitromicina,100,PIH:735,
+,AZITROMICINA 500 MG - 3 TABLETAS,azitromicina,azitromicina,100,PIH:735,
+,CIPROFLOXACINO 500MG - 14 TABLETAS,ciprofloxacino,ciprofloxacino ungüento,90,PIH:740,ciprofloxacin
+,CIPROFLOXACINA SOLUCION OTICA - 10ML,ciprofloxacina solucion otica,,,PIH:740,ciprofloxacin
+,CIPROFLOXACINA/HIDRO/LID SOLUCION OTICA - 10ML,ciprofloxacina hidro lid solucion otica,,,PIH:740,ciprofloxacin
+,CIPROFLOXACINO SOLUCION OFTALMICA - 5ML,ciprofloxacino solucion oftalmica,,,PIH:740,ciprofloxacin
+,FLUCONAZOL 150MG - 1 CAPSULA,fluconazol,fluconazol,100,PIH:747,
+,PREDNISOLONA OFTALMICA **ESPECIAL**,prednisolona oftalmica,,,PIH:765,prednisolone
+,HIDROXICARBAMIDA 500MG CAPSULAS [Hydrea] **ESPECIAL**,hidroxicarbamida,,,PIH:7658,hydroxycarbamide
+,ONDANSETRON TABLETAS **ESPECIAL**,ondansetron tabletas,,,PIH:7663,ondansetron
+,TAMOXIFENO 20 MG - 14 TABLETAS **ESPECIAL**,tamoxifeno,tamoxifeno,100,PIH:7664,
+,SALBUTAMOL AEROSOL 100MCG - 200 DOSIS,salbutamol aerosol,salbutamol,90,PIH:798,
+,ACIDO ACETILSALICILICO 100MG - 30 TABLETAS,acido acetilsalicilico,ácido acetilsalicílico,95,PIH:88,
+,ACIDO ACETILSALICILICO 300MG - 20 TABLETAS EFF,acido acetilsalicilico,ácido acetilsalicílico,95,PIH:88,
+,ACIDO ACETILSALICILICO 500MG - TABLETAS,acido acetilsalicilico,ácido acetilsalicílico,95,PIH:88,
+,Citrato de potacio + Citrato Acido [Uroclasio] - 150ml **ESPECIAL**,citrato de potacio   citrato acido [uroclasio],,,PIH:88,Uroclasio (potassium citrate and acid citrate)
+,PARACETAMOL 300MG - 12 SUPOSITORIOS,paracetamol,paracetamol,100,PIH:89,
+,PARACETAMOL 500MG - 10 TABLETAS,paracetamol,paracetamol,100,PIH:89,
+,PARACETAMOL JARABE 3.2G/100 ml - 120 ml,paracetamol jarabe,paracetamol,90,PIH:89,
+,PARACETAMOL SOLUCION 100MG/ML - 20ML,paracetamol solucion,paracetamol,90,PIH:89,
+,PARACETAMOL/CAFEÍNA 500MG/50MG - TABLETAS,paracetamol cafeína,paracetamol,90,PIH:89,
+,PARACETAMOL/METOCARBAMOL 350MG/400MG - TABLETAS,paracetamol metocarbamol,paracetamol,90,PIH:89,
+,IBUPROFENO 800MG - 12 TABLETAS,ibuprofeno,ibuprofeno,100,PIH:912,
+,IBUPROFENO SOLUCION PEDIATRICA,ibuprofeno solucion pediatrica,ibuprofeno,90,PIH:912,
+,NISTATINA 100 000 IU - 12 OVULOS,nistatina,nistatina,100,PIH:919,
+,NISTATINA SUSPENSION 100 000UI/ML - 24 ML,nistatina suspension,nistatina,90,PIH:919,
+,CARBAMAZEPINA 200MG - 20 TABLETAS,carbamazepina,carbamazepina,100,PIH:920,
+,CARBAMAZEPINA SUSPENSION 2G/100 ML - 100 o 120ML,carbamazepina suspension,carbamazepina,90,PIH:920,
+,OXCARBAMAZEPINA 60MG/ML - 100ML **ESPECIAL**,oxcarbamazepina,carbamazepina,93,PIH:920,
+,DICLOXACILINA 500MG TABLETAS,dicloxacilina,,,PIH:922,Dicloxacillin
+,DICLOXACILINA SUSPENCION 50MG/ML 60ML,dicloxacilina suspencion,,,PIH:922,Dicloxacillin
+,RANITIDINA 150MG 20 TABLETAS,ranitidina,ranitidina,100,PIH:923,
+,KETOCONAZOL 2% - 100G,ketoconazol,ketoconazol,100,PIH:926,
+,KETOCONAZOL 2% - 30G,ketoconazol,ketoconazol,100,PIH:926,
+,KETOCONAZOL SHAMPOO,ketoconazol shampoo,ketoconazol,90,PIH:926,
+,SULFADIAZINA DE PLATA CREMA 1G,sulfadiazina de plata crema,sulfadiazina de plata,95,PIH:938,
+,ALBENDAZOL 200MG - 6 TABLETAS,albendazol,albendazol,100,PIH:941,
+,ALBENDAZOL SUSPENCION 20MG/ML - 20 ML,albendazol suspencion,albendazol,90,PIH:941,
+,DOXICICLINA 100MG - 10 CAPSULAS,doxiciclina,doxiciclina,100,PIH:95,
+,CLOTRIMAZOL - 12 OVULOS,clotrimazol,,,PIH:960,clotrimazole
+,FUROSEMIDA 40MG - 20 TABLETAS,furosemida,furosemida,100,PIH:99,
+,ACIDO RETINOICO 0.05G - 30G,acido retinoico,,,,retinoic acid
+,ALGESTONA/ESTRADIOL INYECTABLE 150MG/10MG/ML - 1ML,algestona estradiol inyectable,,,,Estradiol enantate/algestone acetophenide
+,BLOQUEADOR SOLAR,bloqueador solar,,,,sunscreen
+,DESPENSA NUTRIHUATE **ESPECIAL**,despensa nutrihuate,,,,"a mix of oil, milk, and peanut butter given for malnutrition"
+,DIU DE HORMONA (MIRENA),diu de hormona (mirena),,,,Marina hormone IUD
+,FORMULA MAGISTRAL **ESPECIAL** (precisar cual en comentario),formula magistral  (precisar cual en comentario),,,,magistral formula
+,KIT PARA BEBE (ROPA),kit para bebe (ropa),,,,kit of baby clothing
+,MECLIZINA/PIRIDOXINA 25MG/50MG - 12 TABLETAS,meclizina piridoxina,,,,meclizine and pyridoxine
+,PRUEBAS DE TIPIFICACION SANGUINEA,pruebas de tipificacion sanguinea,,,,blood type tests
+,PSORIADERM **ESPECIAL**,psoriaderm,,,,psorioderm
