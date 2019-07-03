@@ -378,3 +378,10 @@ INSERT INTO concept_set (concept_id, concept_set, sort_weight, creator, date_cre
     (9780, 11722, 531, 16404, now(), uuid()),
     (998, 11722, 532, 16404, now(), uuid());
 ```
+
+# Adding Spanish to Diagnoses
+```
+INSERT INTO concept_name (concept_id, name, locale, locale_preferred, concept_name_type, creator, date_created, uuid) VALUES 
+    (5090, "Talla (cm)", "es", 0, "FULLY_SPECIFIED", 16404, now(),  uuid()), 
+    (...
+```
