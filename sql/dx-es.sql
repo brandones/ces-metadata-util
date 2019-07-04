@@ -521,3 +521,11 @@ SELECT
     es.concept_id, es.name, "es", 1, 16404, now(), uuid()
 FROM es_names
 ;
+
+-- Remove repeat concept names
+CREATE TEMPORARY TABLE dupes (name varchar(128), concept_id int);    
+INSERT INTO dupes (name, concept_id) SELECT name, concept_id FROM concept_name WHERE locale = "es" GROUP BY name, concept_id HAVING COUNT(name) > 1;
+
+DELETE cn FROM concept_name cn INNER JOIN dupes d ON cn.name = d.name AND cn.concept_id = d.concept_id WHERE cn.locale = "es" AND DATE(cn.date_created) = curdate();
+
+

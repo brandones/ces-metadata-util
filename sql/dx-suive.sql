@@ -2476,3 +2476,13 @@ INNER JOIN concept_reference_term crticd
 INNER JOIN concept_reference_map crm2
     ON crm2.concept_reference_term_id = crticd.concept_reference_term_id;
 
+-- Delete duplicate mappings
+DELETE crm.* FROM concept_reference_map crm
+JOIN
+    (SELECT MAX(concept_map_id) max_cmi
+        FROM concept_reference_map crm2
+        GROUP BY crm2.concept_id, crm2.concept_reference_term_id
+        HAVING COUNT(concept_id) > 1)
+    AS dup
+    ON crm.concept_map_id = dup.max_cmi;
+
